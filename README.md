@@ -6,6 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=oonisidesu&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+[![yootsubo's 42 stats](https://badge.mediaplus.ma/greenbinary/yootsubo?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oonisidesu/oonisidesu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oonisidesu/oonisidesu/output/github-contribution-grid-snake.svg">
